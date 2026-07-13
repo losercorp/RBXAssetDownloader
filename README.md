@@ -14,7 +14,7 @@ Designed for downloading Roblox assets of any type.
 
 1. Fork the repository
 2. Configure config.js with your Roblox user cookie and asset IDs of choice
-3. Run the command (node main) in the project directory
+3. Run the command below in the project directory
 
 ```bash
 node main
