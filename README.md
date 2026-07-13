@@ -1,11 +1,20 @@
 # RBXAssetDownloader
-Designed for downloading Roblox assets of any kind.
-================================
-# Requirements:
-- Node.js: https://nodejs.org/
 
-# Usage:
+Designed for downloading Roblox assets of any type.
 
-- Fork the repository
-- Configure config.js with your Roblox user cookie and asset IDs of choice
-- Run the command (node main) in the project directory
+---
+
+## Requirements
+
+- [Node.js](https://nodejs.org/)
+
+---
+
+## Usage
+
+1. Fork the repository
+2. Configure config.js with your Roblox user cookie and asset IDs of choice
+3. Run the command (node main) in the project directory
+
+```bash
+node main
